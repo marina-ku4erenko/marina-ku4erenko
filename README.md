@@ -2,11 +2,6 @@
 
 :sparkles:	Здесь можно ознакомиться с тем, что я успела наколдовать! :sparkles:	
 
-<p align="center">
-<img title="magic" src="magic.png">
-</p>
-
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marina-ku4erenko&show_icons=true&theme=tokyonight)
 
