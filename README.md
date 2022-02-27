@@ -2,6 +2,8 @@
 
 :sparkles:	Здесь можно ознакомиться с тем, что я успела наколдовать! :sparkles:	
 
+:exclamation: Пример отличного проекта для первого знакомства с моими навыками: [ПОСМОТРИ НА МЕНЯ!](https://github.com/marina-ku4erenko/project_sportmaster)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marina-ku4erenko&show_icons=true&theme=tokyonight)
 
