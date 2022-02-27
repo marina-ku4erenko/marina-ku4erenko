@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marina-ku4erenko&show_icons=true&theme=tokyonight)
+
+
 <!--
 **marina-ku4erenko/marina-ku4erenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
